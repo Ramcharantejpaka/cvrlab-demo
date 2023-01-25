@@ -14,3 +14,7 @@ is used to generate new ssh key of type rsa
 ```
 settings -> SSH and GPG keys -> `new SSH key`
 ```
+the clone it using the following cmd line
+```
+git clone `clone ssh link here`
+```
