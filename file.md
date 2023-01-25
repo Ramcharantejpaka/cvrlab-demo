@@ -1,4 +1,4 @@
-#Othere cloning methods
+# Other cloning methods
 * this is a new branch created for demo
 * you may also clone the repository using `ssh` link
   * uder clone you can find the link
