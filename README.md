@@ -5,5 +5,5 @@
 * open git bash in the directory where to clone
   * use the following cmd line to clone the repo
 ```
-git clone `repo link here`
+git clone [repo link here]
 ```
